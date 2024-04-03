@@ -1,7 +1,7 @@
 
 # Clone the Figma design using HTML and CSS
 
-Open [[https://zippy-meerkat-ceb3c8.netlify.app](https://zippy-meerkat-ceb3c8.netlify.app)]. to view it in your browser.
+Open [[https://grand-maamoul-6cfd74.netlify.app](https://grand-maamoul-6cfd74.netlify.app)]. to view it in your browser.
 
 ## Features
 - **Figma Design Analysis:** Analyze design elements, colors, and fonts.
